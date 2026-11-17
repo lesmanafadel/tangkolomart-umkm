@@ -1,0 +1,8 @@
+{
+  "name": "TangkoloMart - Pasar Digital Komoditas & UMKM Desa Tangkolo",
+  "description": "Platform e-commerce dan manajemen BUMDes Karya Mandiri Desa Tangkolo untuk pemasaran komoditas lokal, produk UMKM, pengelolaan pesanan, laporan penjualan, dan audit keamanan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
